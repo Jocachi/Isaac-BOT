@@ -1,3 +1,3 @@
-#lUCK-BOT
+LuCK-BOT
 bot for whatsapp
 
